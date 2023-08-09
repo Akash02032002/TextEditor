@@ -1,4 +1,13 @@
-A TextEditor website using React having feature like convert text to uppercase, lowercase, captalize, speak, clear, copy, paste option also count number of words and charaters in a text.
+# << Text Editor Application  >>
+
+## • A TextEditor website using React having feature like convert text to uppercase, lowercase, captalize, speak, clear, copy, paste option also count number of words and charaters in a text.
+
+## • Technologies : React.js, Node.js, HTML, CSS, Javascript and JSON server etc.
+
+## Setup Steps :-
+
+### • npm install   &&   npm start
+
 
 <img width="949" alt="Screenshot 2023-08-08 144656" src="https://github.com/Akash02032002/TextEditor/assets/84145371/6f01493f-91e8-455b-b753-a164fe1911eb">
 
